@@ -127,3 +127,6 @@
 [submodule "logstash_custom"]
 	path = logstash_custom
 	url = https://github.com/gauravarora/chef-logstash-1.git
+[submodule "awscli"]
+	path = awscli
+	url = https://github.com/shlomoswidler/awscli.git
